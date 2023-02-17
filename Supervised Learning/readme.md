@@ -17,7 +17,7 @@ pip install -r requirements.txt <br> <br>
 To run the project, open a terminal window and navigate to the project directory. Then, run the following command: <br>
  <br>
 
-python finding_donors.py <br>
+python finding_donors.py <br> <br>
 This will run the machine learning model and output the results to the console. <br>
  <br>
 ##  Files <br>
