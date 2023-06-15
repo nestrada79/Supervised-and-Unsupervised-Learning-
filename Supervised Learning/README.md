@@ -1,4 +1,4 @@
-
+# This repo contains my student work for the WGUxUdacity Intro to Machine Learning course taken as part of my BSDMDA program
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
